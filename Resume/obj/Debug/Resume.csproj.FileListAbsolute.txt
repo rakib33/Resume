@@ -1,0 +1,12 @@
+E:\0.RiProject\1.Projects\Resume\bin\Resume.dll.config
+E:\0.RiProject\1.Projects\Resume\bin\Resume.dll
+E:\0.RiProject\1.Projects\Resume\bin\Resume.pdb
+E:\0.RiProject\1.Projects\Resume\obj\Debug\Resume.csprojResolveAssemblyReference.cache
+E:\0.RiProject\1.Projects\Resume\obj\Debug\Resume.dll
+E:\0.RiProject\1.Projects\Resume\obj\Debug\Resume.pdb
+E:\0.RiProject\1.Projects\MyPortfolio\Resume\bin\Resume.dll.config
+E:\0.RiProject\1.Projects\MyPortfolio\Resume\bin\Resume.dll
+E:\0.RiProject\1.Projects\MyPortfolio\Resume\bin\Resume.pdb
+E:\0.RiProject\1.Projects\MyPortfolio\Resume\obj\Debug\Resume.csprojResolveAssemblyReference.cache
+E:\0.RiProject\1.Projects\MyPortfolio\Resume\obj\Debug\Resume.dll
+E:\0.RiProject\1.Projects\MyPortfolio\Resume\obj\Debug\Resume.pdb
